@@ -30,7 +30,7 @@ These manuals contain overall information about how TAK Projects are developed. 
    about/licensing
    about/copyright*
    
-User oriented documentation
+User-oriented Documentation
 ===========================
 
 The following manuals are written for users of the TAK Project Index — those who are trying to download and install a given package from a project.
@@ -45,7 +45,7 @@ The following manuals are written for users of the TAK Project Index — those w
    usage/build*
    
 
-Developer resource center
+Developer Resource Center
 =========================
 
 There are several resources and unsorted documents that don’t seem to fit on other parts of the documentation body, or may require some adjustments and/or conversion to ReStructured Text format, or are simply too old.

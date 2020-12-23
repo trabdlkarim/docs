@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-TAK Project Index Doc Center
-============================
+TAK PI Documentation Center
+===========================
 
 This is the top level of the TAK PI’s technical documentation tree. TAK PI documentation, like the projects themselves, is very much a work in progress; that is especially true as we work to integrate our many scattered documents into a coherent whole. Please note that improvements to the documentation are welcome; send us a feedback if you want to help out.
 

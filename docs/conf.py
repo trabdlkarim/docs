@@ -97,6 +97,7 @@ pygments_style = 'sphinx'
 
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
+    'collapse_navigation': False
 }
 
 # The name for this set of Sphinx documents.  If None, it defaults to

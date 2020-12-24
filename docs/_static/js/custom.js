@@ -14,9 +14,10 @@ if(children.length > 0){
   }
 }
 
-if(footeranchors.length>0){
+if(footerAnchors.length>0){
     footerAnchors.forEach(setAnchorTarget);
 }
+  
 });
 
 function setAnchorTarget(anchor,index,array){

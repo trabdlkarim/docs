@@ -5,8 +5,7 @@ var children = document.getElementsByTagName("FOOTER")[0].children;
 const  footerAnchors = [];
 
 if(children.length > 0){
-  var i;
-  for(i=0;i<children.length;i++){
+  for(let i=0; i<children.length; i++){
       if(children[i].nodeName == "A"){
           footerAnchors.push(children[i]);
       }

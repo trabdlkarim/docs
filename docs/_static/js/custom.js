@@ -1,9 +1,21 @@
 // Custom JS
 // Simple JavaScript for setting footer anchors target attritube
 
-var footerAnchors = document.getElementsByTagName("FOOTER")[0].getElementsByTagName("A"); 
+var children = document.getElementsByTagName("FOOTER")[0].children; 
+const  footerAnchors = [];
 
-footerAnchors.forEach(setAnchorTarget);
+if(children.length > 0){
+  var i;
+  for(i=0;i<children.length;i++){
+      if(children[i].nodeName == "A"){
+          footeranchors.append(children[i]);
+      }
+  }
+}
+
+if(footeranchors.length>0){
+    footerAnchors.forEach(setAnchorTarget);
+}
 
 function setAnchorTarget(anchor,index,array){
     anchor.setAttribute("target","_blank");

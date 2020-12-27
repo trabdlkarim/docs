@@ -1,3 +1,3 @@
-# TAK Projects Homepage
+# Personal Project Pages
 
-A homepage for my personal projects 
+A simple pool for my personal project pages

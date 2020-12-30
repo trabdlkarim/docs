@@ -1,5 +1,22 @@
-title: TAK Project Pages
-description: A Simple Personal Project Pages
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-leap-day
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:title/
+
+# Setup
+title:               TAK Project Pages
+tagline:             'Simple Personal Project Pages'
+description:         'This is a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important personal software development projects.'
+url:                 https://projects.trabdlkarim.com
+baseurl:             /
+paginate:            5
+excerpt_separator: <!--more-->
+
+# About/contact
+author:
+  name:              Touré A.Karim
+  url:               www.trabdlkarim.com
+  email:             contact@trabdlkarim.com
+
+# Custom vars
+version:             1.0.0

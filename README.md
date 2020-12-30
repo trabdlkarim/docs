@@ -1,7 +1,7 @@
 # TAK Personal Project Pages
 
 <p class="message">
-  Hey there! I'm TOURE Abdoul Karim, a Computer Engineer &  Tech Enthusiast. This site is a homepage for my personal project pages. You will find here information about my project stack or index of personal projects that lists some of my most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on [browsing all the projects](https://devlabs.trabdlkarim.com/projects/browse/)!
+  Hey there! I'm TOURE Abdoul Karim, a Computer Engineer &  Tech Enthusiast. This site is a homepage for my personal project pages. You will find here information about my project stack or index of personal projects that lists some of my most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on <a href="https://devlabs.trabdlkarim.com/projects/browse/">browsing all the projects</a>!
 </p>
 
 #  About TAK Project Index (TAK PI)
@@ -10,7 +10,7 @@
 
 The TAK Projects are mainly a collection of Python development projects that are independently developed by Toure A. Karim. TAK PI is a community-driven organization with the goal to maintain and improve those projects.
 
-<i class="fa fa-hand-right"> Find out more by visiting [About TAK PI](https://devlabs.trabdlkarim.com/about/)
+<i class="fa fa-hand-o-right" aria-hidden="true"></i> Find out more by visiting [About TAK PI](https://devlabs.trabdlkarim.com/about/)
 
 
 # Additional Information

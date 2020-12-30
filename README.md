@@ -1,5 +1,7 @@
 
-<p class="message">Hey there! I'm <strong>TOURE Abdoul Karim</strong>, a Computer Engineer &  Tech Enthusiast.</p>
+# Welcome 
+
+<p class="message">Hey there! I am <strong>Toure Abdoul Karim</strong>, a Computer Engineer &  Tech Enthusiast. Welcome to my personal project pages.</p>
 
 # TAK Personal Project Pages
 
@@ -14,7 +16,7 @@ The TAK Projects are mainly a collection of Python development projects that are
 
 <i class="fa fa-hand-o-right" aria-hidden="true"></i> Find out more by visiting [About TAK PI](https://devlabs.trabdlkarim.com/about/)
 
-## Useful Resources
+## Useful TAK PI Resources
 
 - [Code Snippets](https://devlabs.trabdlkarim.com/snippets/)
 - [Project Summaries](https://devlabs.trabdlkarim.com/projects/summaries/)
